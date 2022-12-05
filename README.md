@@ -21,7 +21,7 @@ This is in contrast to React where libraries race to provide zero day compatibil
 
 In the end I didn't use any UI frameworks and just did some minimal CSS.
 
-The other thing is Vue prefers convention over composition. Where react provides first class JavaScript support in templating, vue has a different approach of having opinionated conventions that simplifies technical overhead and decisions in some regard. It's stock styling system works out of the box whereas in react there are tons of ways to do styling, each competing for attention.
+The other thing is Vue prefers convention over composition. Where react provides first class JavaScript support in templating, vue has a different approach of having opinionated conventions that simplifies technical overhead and decisions in some regard. Vue's stock styling system works out of the box whereas in react there are tons of ways to do styling, each competing for attention.
 
 ## Project Setup
 

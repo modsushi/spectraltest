@@ -70,16 +70,18 @@ li {
   border-bottom: 1px solid #666;
   margin: 0;
   padding: 0 5px;
-  border-radius: 5px;
   transition: 200ms;
 }
 
 .liwrap p:hover {
   color: #000;
   background: #ffcd00;
+  border-radius: 5px;
+  box-shadow: 0 0 7px -2px rgb(189, 186, 189);
 }
 .liwrap p.active {
   background: #ffcd00;
+  border-radius: 5px;
   color: #000;
   box-shadow: 0 0 7px -2px rgb(189, 186, 189);
 }

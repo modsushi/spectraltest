@@ -19,7 +19,7 @@ import { RouterLink } from "vue-router";
       <p>Jabran Saeed</p>
       <img src="@/assets/jab.png" width="100" height="100" alt="Jabran Photo" />
       <div class="btn">
-        <RouterLink to="/chart"><button>Get Started</button></RouterLink>
+        <RouterLink to="/chart"><button>Start Here</button></RouterLink>
       </div>
     </div>
   </div>

@@ -10,7 +10,7 @@ const series = computed(() => {
   const data = getData(selected);
   return [
     {
-      name: `Asset ${selected.value}s`,
+      name: `Asset ${selected.value}`,
       data: data,
     },
   ];

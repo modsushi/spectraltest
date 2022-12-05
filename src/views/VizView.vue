@@ -7,6 +7,7 @@ import Chart from "../components/Chart.vue";
   <main>
     <header>
       <img alt="Vue logo" src="@/assets/logo.png" width="50" height="50" />
+      <h2>FE Assignment</h2>
     </header>
     <div class="container">
       <SideBar />
@@ -20,6 +21,10 @@ header {
   width: 100%;
   display: flex;
   margin-bottom: 20px;
+  gap: 0 20px;
+}
+header h2 {
+  color:#fff;
 }
 img {
   margin-left: 30px;
